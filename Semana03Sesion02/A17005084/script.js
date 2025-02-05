@@ -6,7 +6,7 @@ function Ejercicio1() {
     conta ++;
     document.getElementById("LblEjercicio1").innerText=conta;
 }
-
+//test
 function Ejercicio2(){
     /*2. **Convertir grados Celsius a Fahrenheit:**  
    Escribe una función que convierta grados Celsius a Fahrenheit y viceversa.*/
